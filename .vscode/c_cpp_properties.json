@@ -1,0 +1,17 @@
+{
+    "configurations": [
+        {
+            "name": ""compilerPath": "C:/MinGW/bin/g++.exe"
+            ",
+            "includePath": [
+                "${C:/Program Files\MinGW/bin}/**"
+            ],
+            "defines": [
+                "_DEBUG",
+                "UNICODE",
+                "_UNICODE"
+            ]
+        }
+    ],
+    "version": 4
+}
